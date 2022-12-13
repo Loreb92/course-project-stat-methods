@@ -1,0 +1,15 @@
+name: env-final-project-collaborations
+channels:
+  - defaults
+dependencies:
+ - python=3.10.8
+ - matplotlib=3.5.3
+ - seaborn=0.12.0
+ - tqdm
+ - ipykernel
+ - ipywidgets
+ - scipy=1.9.1
+ - networkx=2.6.3
+ - nltk=3.7
+ - conda-forge::powerlaw=1.4.6
+ - statsmodels=0.13.2
