@@ -1,0 +1,27 @@
+unversioned*
+**/*.aux
+**/*.bbl
+**/*.blg
+**/*.log
+**/*.mp
+**/*.out
+**/*.synctex.gz
+**/*.top
+**/*.tui 
+aita-posts-dataset.csv.gz
+tmp
+.DS_Store
+tensorboard
+main.pdf
+*.pyc
+*.p
+*.pickle
+*.fdb_latexmk
+*.fls
+
+# notebooks
+.ipynb_checkpoints
+Untitled*.ipynb
+*_BREAK.ipynb
+9*.ipynb
+notebook/_*.ipynb
