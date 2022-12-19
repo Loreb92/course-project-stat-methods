@@ -1,2 +1,2 @@
-# course-project-stat-methods
-This repository contains the scripts used for the final project of the course Statistical Methods in Network Science.
+# course-project-collaboration-network-gender
+This repository contains the code used for the final projects of Social Networks 1 and Statistical Methods in Network Science
